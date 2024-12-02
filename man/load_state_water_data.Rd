@@ -4,7 +4,7 @@
 \alias{load_state_water_data}
 \title{Load State Water Data}
 \usage{
-load_state_water_data()
+load_state_water_data(file_path = NULL)
 }
 \value{
 A data frame containing the state water data.
